@@ -1,0 +1,6 @@
+{
+  "name": "Python ProCalc - Calculadora Comercial e Contábil",
+  "description": "Calculadora profissional para vendedores e contadores com motores de markup, margem, impostos por dentro e por fora, retenções fiscais, fita de auditoria contínua e código Python modular pronto para execução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

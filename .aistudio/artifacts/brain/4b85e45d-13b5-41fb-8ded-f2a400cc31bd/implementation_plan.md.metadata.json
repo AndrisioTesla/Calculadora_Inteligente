@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano arquitetural e funcional detalhado para o desenvolvimento de uma Calculadora Comercial e Contábil em Python (Python ProCalc), integrando motores de vendas (markup, margem, comissões, troco), rotinas fiscais (impostos por dentro/fora, retenções, juros de mora) e fita de auditoria digital com exportação.",
+  "updatedAt":  "2026-10-29T01:43:39.995061432Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
