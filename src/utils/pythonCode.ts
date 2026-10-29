@@ -597,4 +597,22 @@ openpyxl>=3.1.2
 reportlab>=4.1.0
 `,
   },
+  {
+    name: 'README.md',
+    path: 'README.md',
+    description: 'Manual de instruções completo, instalação, execução e empacotamento',
+    content: `# Python ProCalc - Calculadora Profissional para Contadores e Vendedores
+
+Como executar a aplicação Desktop:
+1. Instale as dependências:
+   pip install -r requirements.txt
+
+2. Inicie a calculadora:
+   python main.py
+
+3. Gerar executável independente (.exe):
+   pip install pyinstaller
+   pyinstaller --onedir --windowed --add-data "core;core" --add-data "modules;modules" main.py
+`,
+  },
 ];
